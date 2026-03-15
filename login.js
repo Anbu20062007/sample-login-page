@@ -35,7 +35,7 @@ function validatePassword(password) {
     return password.length >= 6;
 }
 
-// Clear Error Messages
+// Clear Error Messages...
 function clearErrors() {
     emailError.textContent = '';
     passwordError.textContent = '';
