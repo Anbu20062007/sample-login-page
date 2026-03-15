@@ -10,7 +10,7 @@ const successModal = document.getElementById('successModal');
 const closeModal = document.getElementById('closeModal');
 const rememberMeCheckbox = document.getElementById('rememberMe');
 
-// Demo credentials for frontend validation
+// Demo credentials for frontend validation....
 const DEMO_CREDENTIALS = {
     email: 'demo@example.com',
     password: 'demo123'
